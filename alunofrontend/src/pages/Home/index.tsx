@@ -17,7 +17,6 @@ const Home: React.FC = () => {
             fornecido por um backend construído com NodeJS e um frontend
             construído em ReactJS.
           </p>
-          <p>Desenvolvido por: <a href="https://github.com/Leticiacouti" target="_blank" rel="noopener noreferrer">Letícia Coutinho</a></p>
           <Link className="btn btn-primary btn-lg" to="/cadastros">
             Acessar Cadastros
           </Link>
